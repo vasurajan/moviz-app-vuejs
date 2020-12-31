@@ -28,7 +28,6 @@
               <h2>{{item.Title}}</h2>
               <div>Year: {{item.Year}}</div>
               <div>Type: {{item.Type}}</div>
-              <div>IMDB-id: {{item.imdbID}}</div>
             </div>
           </v-card-title>
 
