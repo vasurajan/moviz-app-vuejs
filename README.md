@@ -15,7 +15,7 @@
 
 ### Ratings
 
-![ratings](https://user-images.githubusercontent.com/63305945/103413987-e9d80b80-4ba1-11eb-80ac-af77326e5d7f.png)
+![Ratings](https://user-images.githubusercontent.com/63305945/103414040-3c192c80-4ba2-11eb-8e98-00d9244409be.png)
 
 ## Project setup
 ```
